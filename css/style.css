@@ -1,0 +1,15 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  background-color: #D1A608;
+}
+
+#doge {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
